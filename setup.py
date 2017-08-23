@@ -14,6 +14,6 @@ setup(
     platforms='any',
     license='MIT',
     install_requires=[
-        'splinter==2.9.1',
+        'splinter',
     ],
 )
