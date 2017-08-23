@@ -1,0 +1,77 @@
+[INFO  - 2017-08-23T05:39:45.874Z] GhostDriver - Main - running on port 51835
+[INFO  - 2017-08-23T05:39:48.417Z] Session [7a0dc7c0-87c5-11e7-8074-43e0ed6cada1] - page.settings - {"XSSAuditingEnabled":false,"javascriptCanCloseWindows":true,"javascriptCanOpenWindows":true,"javascriptEnabled":true,"loadImages":true,"localToRemoteUrlAccessEnabled":false,"userAgent":"Mozilla/5.0 (Windows NT 6.2; WOW64) AppleWebKit/538.1 (KHTML, like Gecko) PhantomJS/2.1.1 Safari/538.1","webSecurityEnabled":true}
+[INFO  - 2017-08-23T05:39:48.418Z] Session [7a0dc7c0-87c5-11e7-8074-43e0ed6cada1] - page.customHeaders:  - {}
+[INFO  - 2017-08-23T05:39:48.418Z] Session [7a0dc7c0-87c5-11e7-8074-43e0ed6cada1] - Session.negotiatedCapabilities - {"browserName":"phantomjs","version":"2.1.1","driverName":"ghostdriver","driverVersion":"1.2.0","platform":"windows-10-32bit","javascriptEnabled":true,"takesScreenshot":true,"handlesAlerts":false,"databaseEnabled":false,"locationContextEnabled":false,"applicationCacheEnabled":false,"browserConnectionEnabled":false,"cssSelectorsEnabled":true,"webStorageEnabled":false,"rotatable":false,"acceptSslCerts":false,"nativeEvents":true,"proxy":{"proxyType":"direct"},"phantomjs.page.settings.loadImages":true}
+[INFO  - 2017-08-23T05:39:48.418Z] SessionManagerReqHand - _postNewSessionCommand - New Session Created: 7a0dc7c0-87c5-11e7-8074-43e0ed6cada1
+[ERROR - 2017-08-23T05:39:57.738Z] Session [7a0dc7c0-87c5-11e7-8074-43e0ed6cada1] - page.onError - msg: TypeError: null is not an object (evaluating '(document.getElementById("buorga")||document.getElementById("buorgig"))')
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-08-23T05:39:57.738Z] Session [7a0dc7c0-87c5-11e7-8074-43e0ed6cada1] - page.onError - stack:
+  $buo_show (https://browser-update.org/update.show.min.js:1)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-08-23T05:40:02.030Z] Session [7a0dc7c0-87c5-11e7-8074-43e0ed6cada1] - page.onError - msg: InvalidStateError: DOM Exception 11: An attempt was made to use an object that is not, or is no longer, usable.
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-08-23T05:40:02.030Z] Session [7a0dc7c0-87c5-11e7-8074-43e0ed6cada1] - page.onError - stack:
+  send (https://www.binary.com/js/webtrader-charts_9a09c6f2b3bc3af0c385.min.js:6)
+  g (https://www.binary.com/js/webtrader-charts_9a09c6f2b3bc3af0c385.min.js:6)
+  x (https://www.binary.com/js/webtrader-charts_9a09c6f2b3bc3af0c385.min.js:6)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-08-23T05:40:02.295Z] Session [7a0dc7c0-87c5-11e7-8074-43e0ed6cada1] - page.onError - msg: Unhandled promise rejection [object Object]
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-08-23T05:40:02.295Z] Session [7a0dc7c0-87c5-11e7-8074-43e0ed6cada1] - page.onError - stack:
+  (anonymous function) (https://d2zah9y47r7bi2.cloudfront.net/releases/current/tracker.js:15)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-08-23T05:40:02.296Z] Session [7a0dc7c0-87c5-11e7-8074-43e0ed6cada1] - page.onError - msg: Unhandled promise rejection [object Object]
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-08-23T05:40:02.296Z] Session [7a0dc7c0-87c5-11e7-8074-43e0ed6cada1] - page.onError - stack:
+  (anonymous function) (https://d2zah9y47r7bi2.cloudfront.net/releases/current/tracker.js:15)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-08-23T05:40:02.297Z] Session [7a0dc7c0-87c5-11e7-8074-43e0ed6cada1] - page.onError - msg: Unhandled promise rejection [object Object]
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-08-23T05:40:02.297Z] Session [7a0dc7c0-87c5-11e7-8074-43e0ed6cada1] - page.onError - stack:
+  (anonymous function) (https://d2zah9y47r7bi2.cloudfront.net/releases/current/tracker.js:15)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-08-23T05:40:02.298Z] Session [7a0dc7c0-87c5-11e7-8074-43e0ed6cada1] - page.onError - msg: Unhandled promise rejection [object Object]
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-08-23T05:40:02.298Z] Session [7a0dc7c0-87c5-11e7-8074-43e0ed6cada1] - page.onError - stack:
+  (anonymous function) (https://d2zah9y47r7bi2.cloudfront.net/releases/current/tracker.js:15)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-08-23T05:40:02.299Z] Session [7a0dc7c0-87c5-11e7-8074-43e0ed6cada1] - page.onError - msg: Unhandled promise rejection [object Object]
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-08-23T05:40:02.299Z] Session [7a0dc7c0-87c5-11e7-8074-43e0ed6cada1] - page.onError - stack:
+  (anonymous function) (https://d2zah9y47r7bi2.cloudfront.net/releases/current/tracker.js:15)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-08-23T05:40:02.300Z] Session [7a0dc7c0-87c5-11e7-8074-43e0ed6cada1] - page.onError - msg: Unhandled promise rejection [object Object]
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-08-23T05:40:02.301Z] Session [7a0dc7c0-87c5-11e7-8074-43e0ed6cada1] - page.onError - stack:
+  (anonymous function) (https://d2zah9y47r7bi2.cloudfront.net/releases/current/tracker.js:15)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-08-23T05:40:02.301Z] Session [7a0dc7c0-87c5-11e7-8074-43e0ed6cada1] - page.onError - msg: Unhandled promise rejection [object Object]
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-08-23T05:40:02.302Z] Session [7a0dc7c0-87c5-11e7-8074-43e0ed6cada1] - page.onError - stack:
+  (anonymous function) (https://d2zah9y47r7bi2.cloudfront.net/releases/current/tracker.js:15)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-08-23T05:40:02.302Z] Session [7a0dc7c0-87c5-11e7-8074-43e0ed6cada1] - page.onError - msg: Unhandled promise rejection [object Object]
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-08-23T05:40:02.303Z] Session [7a0dc7c0-87c5-11e7-8074-43e0ed6cada1] - page.onError - stack:
+  (anonymous function) (https://d2zah9y47r7bi2.cloudfront.net/releases/current/tracker.js:15)
+
+  phantomjs://platform/console++.js:263 in error
